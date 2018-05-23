@@ -42,4 +42,13 @@
 
     Util.parseMarkdown('content-reset');
 </script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?bb2e5187278c0553b9bfbcd36eb9d086";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 ${plugins}
